@@ -13,7 +13,7 @@ This project is a simple yet engaging implementation of the classic Snake game, 
 
 ## Technologies Used
 
-- **Python 3.x:** The programming language used to develop the game.
+- **Python 3.12:** The programming language used to develop the game.
 - **Tkinter:** Used to create the graphical user interface.
 - **SpeechRecognition:** Python library used to handle voice command inputs.
 
