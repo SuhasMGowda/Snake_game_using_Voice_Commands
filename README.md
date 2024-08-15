@@ -73,11 +73,3 @@ This project is a simple yet engaging implementation of the classic Snake game, 
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. Contributions, bug reports, and feature suggestions are always welcome!
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-This `README.md` file should help users understand how to set up and play the game while providing them with necessary information about the project.
